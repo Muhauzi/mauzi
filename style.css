@@ -1,0 +1,239 @@
+.desktop {
+  background-color: #faefe9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-group-wrapper {
+  background-color: #faefe9;
+  height: 1080px;
+  width: 1920px;
+}
+
+.desktop .overlap-group {
+  height: 1080px;
+  position: relative;
+}
+
+.desktop .flower {
+  height: 203px;
+  left: 1255px;
+  position: absolute;
+  top: 255px;
+  width: 211px;
+}
+
+.desktop .img {
+  height: 188px;
+  left: 495px;
+  position: absolute;
+  top: 217px;
+  width: 182px;
+}
+
+.desktop .flower-2 {
+  height: 203px;
+  left: 1663px;
+  position: absolute;
+  top: 593px;
+  width: 211px;
+}
+
+.desktop .flower-3 {
+  height: 204px;
+  left: 628px;
+  position: absolute;
+  top: 73px;
+  width: 211px;
+}
+
+.desktop .flower-4 {
+  height: 204px;
+  left: 1154px;
+  position: absolute;
+  top: 876px;
+  width: 212px;
+}
+
+.desktop .flower-5 {
+  height: 204px;
+  left: 1232px;
+  position: absolute;
+  top: 652px;
+  width: 212px;
+}
+
+.desktop .flower-6 {
+  height: 203px;
+  left: 747px;
+  position: absolute;
+  top: 850px;
+  width: 212px;
+}
+
+.desktop .flower-7 {
+  height: 188px;
+  left: 1738px;
+  position: absolute;
+  top: 302px;
+  width: 182px;
+}
+
+.desktop .flower-8 {
+  height: 203px;
+  left: 1305px;
+  position: absolute;
+  top: 28px;
+  width: 212px;
+}
+
+.desktop .flower-9 {
+  height: 204px;
+  left: 430px;
+  position: absolute;
+  top: 419px;
+  width: 212px;
+}
+
+.desktop .flower-10 {
+  height: 203px;
+  left: 122px;
+  position: absolute;
+  top: 775px;
+  width: 211px;
+}
+
+.desktop .flower-11 {
+  height: 204px;
+  left: 0;
+  position: absolute;
+  top: 478px;
+  width: 212px;
+}
+
+.desktop .flower-12 {
+  height: 204px;
+  left: 334px;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.desktop .flower-13 {
+  height: 204px;
+  left: 39px;
+  position: absolute;
+  top: 152px;
+  width: 212px;
+}
+
+.desktop .flower-14 {
+  height: 203px;
+  left: 981px;
+  position: absolute;
+  top: 30px;
+  width: 212px;
+}
+
+.desktop .flower-15 {
+  height: 203px;
+  left: 1417px;
+  position: absolute;
+  top: 445px;
+  width: 211px;
+}
+
+.desktop .flower-16 {
+  height: 204px;
+  left: 1579px;
+  position: absolute;
+  top: 4px;
+  width: 211px;
+}
+
+.desktop .flower-17 {
+  height: 204px;
+  left: 536px;
+  position: absolute;
+  top: 731px;
+  width: 211px;
+}
+
+.desktop .element {
+  height: 432px;
+  left: 145px;
+  position: absolute;
+  top: 153px;
+  width: 414px;
+}
+
+.desktop .flower-18 {
+  height: 432px;
+  left: 1405px;
+  position: absolute;
+  top: 554px;
+  width: 414px;
+}
+
+.desktop .element-2 {
+  height: 411px;
+  left: 221px;
+  position: absolute;
+  top: 553px;
+  width: 387px;
+}
+
+.desktop .rectangle {
+  background-color: #fffcfc;
+  border-bottom-style: solid;
+  border-color: #f06c8b;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-style: solid;
+  border-top-style: solid;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 728px;
+  left: 713px;
+  position: absolute;
+  top: 188px;
+  width: 567px;
+}
+
+.desktop .hello-my-girl-sorry {
+  color: #ffffff;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 72px;
+  left: 769px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 187px;
+  width: 435px;
+}
+
+.desktop .my-dearest-vioooo {
+  color: #f56b6b;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 650px;
+  left: 738px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 238px;
+  width: 517px;
+}
+
+.desktop .element-3 {
+  height: 411px;
+  left: 1437px;
+  position: absolute;
+  top: 175px;
+  width: 387px;
+}
